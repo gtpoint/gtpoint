@@ -8,8 +8,10 @@
 <p align="left"> <a href="https://twitter.com/elaouzari" target="blank"><img src="https://img.shields.io/twitter/follow/elaouzari?logo=twitter&style=for-the-badge" alt="elaouzari" /></a> </p>
 
 - 📫 How to reach me **elaouzariofficiel12@gmail.com**
-
+- 💬 Ask me about **web development**
+- I’m currently learning **C language**
 - ⚡ Fun fact **I am Funny**
+- 🤝 I’m looking for help with **software Engineering best practices**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
