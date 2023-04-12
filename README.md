@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Oussama El aouzari
 
 
-### Welcome to my github page
+### I'm highly passionate about software engineering and determined to leverage my skills and experience to create innovation software solution.
 
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://BigGtpoint.io)
 
@@ -14,7 +14,6 @@
 <!--ENDS_HERE_QUOTE_README-->
 
 
-<h3 align="left">I'm highly passionate about software engineering and determined to leverage my skills and experience to create innovation software solution.</h3>
 <img align="right" alt="condig_gif" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biggtpoint&label=Profile%20views&color=0e75b6&style=flat" alt="biggtpoint" /> </p>
