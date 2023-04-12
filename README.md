@@ -40,6 +40,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biggtpoint&show_icons=true&locale=en&layout=compact" alt="biggtpoint" />
 <img src="https://github-readme-stats.vercel.app/api?username=biggtpoint&show_icons=true&locale=en" alt="biggtpoint" />
+
+
 ### Social links
 
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/gtpoint)
