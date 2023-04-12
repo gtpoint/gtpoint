@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **elaouzariofficiel12@gmail.com**
 - 💬 Ask me about **web development**
-- I’m currently learning **C language**
+- 🌱 I’m currently learning **C language**
 - ⚡ Fun fact **I am Funny**
 - 🤝 I’m looking for help with **software Engineering best practices**
 
