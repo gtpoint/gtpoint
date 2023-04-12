@@ -29,7 +29,11 @@
 
 ### Streak
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gtpoint&" alt="gtpoint" /></p>
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gtpoint" />
+</a>
+
 
 
 ### Github stats
