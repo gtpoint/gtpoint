@@ -40,8 +40,8 @@
 
 ### Github stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gtpoint&show_icons=true&locale=en&layout=compact" alt="biggtpoint" />
-<img src="https://github-readme-stats.vercel.app/api?username=gtpoint&show_icons=true&locale=en" alt="biggtpoint" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gtpoint&show_icons=true&locale=en&layout=compact" alt="gtpoint" />
+<img src="https://github-readme-stats.vercel.app/api?username=gtpoint&show_icons=true&locale=en" alt="gtpoint" />
 
 
 ### Social links
