@@ -14,7 +14,7 @@
 <!--ENDS_HERE_QUOTE_README-->
 
 
-<img align="right" alt="condig_gif" width="300" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
+<img align="right" alt="condig_gif" width="350" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biggtpoint&label=Profile%20views&color=0e75b6&style=flat" alt="biggtpoint" /> </p>
 
