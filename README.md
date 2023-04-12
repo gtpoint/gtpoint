@@ -29,7 +29,7 @@
 
 ### Streak
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=biggtpoint&" alt="biggtpoint" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gtpoint&" alt="gtpoint" /></p>
 
 
 ### Github stats
