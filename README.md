@@ -37,10 +37,9 @@
 
 
 ### Github stats
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biggtpoint&show_icons=true&locale=en&layout=compact" alt="biggtpoint" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=biggtpoint&show_icons=true&locale=en" alt="biggtpoint" /></p>
-</div>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=biggtpoint&show_icons=true&locale=en&layout=compact" alt="biggtpoint" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=biggtpoint&show_icons=true&locale=en" alt="biggtpoint" /></p>
 
 ### Social links
 
