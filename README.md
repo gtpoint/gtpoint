@@ -15,7 +15,7 @@
 
 
 <h3 align="left">I'm highly passionate about software engineering and determined to leverage my skills and experience to create innovation software solution.</h3>
-<img align="center" alt="condig_gif" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
+<img align="right" alt="condig_gif" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biggtpoint&label=Profile%20views&color=0e75b6&style=flat" alt="biggtpoint" /> </p>
 
@@ -29,16 +29,14 @@
 
 ### Streak
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=biggtpoint">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biggtpoint" />
-</a>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=biggtpoint&" alt="biggtpoint" /></p>
 
 
 ### Github stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biggtpoint&show_icons=true&locale=en&layout=compact" alt="biggtpoint" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=biggtpoint&show_icons=true&locale=en" alt="biggtpoint" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=biggtpoint&show_icons=true&locale=en" alt="biggtpoint" /></p>
 
 
 ### Social links
