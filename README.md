@@ -25,6 +25,7 @@
 - 🌱 I’m currently learning **C language**
 - ⚡ Fun fact **I am Funny**
 - 🤝 I’m looking for help with **software Engineering best practices**
+- 👯 I’m looking to collaborate on **software problems**
 
 
 
