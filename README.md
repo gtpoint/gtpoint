@@ -1,7 +1,6 @@
 ## Hi there 👋, my name is Oussama El aouzari
 
-
-### I'm highly passionate about software engineering and determined to leverage my skills and experience to create innovation software solution.
+**I'm highly passionate about software engineering and determined to leverage my skills and experience to create innovation software solution.**
 
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://BigGtpoint.io)
 
