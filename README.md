@@ -30,10 +30,7 @@
 
 ### 💫 Streak
 
-
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=gtpoint">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gtpoint" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gtpoint&theme=dark&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
 
 
 
