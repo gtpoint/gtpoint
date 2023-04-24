@@ -39,8 +39,7 @@
 
 ### 📊 Github stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gtpoint&show_icons=true&locale=en&layout=compact" alt="gtpoint" />
-<img src="https://github-readme-stats.vercel.app/api?username=gtpoint&show_icons=true&locale=en" alt="gtpoint" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtpoint&show_icons=true&bg_color=00000000)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gtpoint&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
