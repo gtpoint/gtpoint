@@ -15,7 +15,7 @@
 
 <img align="right" alt="condig_gif" width="330" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biggtpoint&label=Profile%20views&color=0e75b6&style=flat" alt="biggtpoint" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biggtpoint&label=Profile%20views&color=0e75b6&style=flat" alt="gtpoint" /> </p>
 
 <p align="left"> <a href="https://twitter.com/elaouzari" target="blank"><img src="https://img.shields.io/twitter/follow/elaouzari?logo=twitter&style=for-the-badge" alt="elaouzari" /></a> </p>
 
