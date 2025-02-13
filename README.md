@@ -20,10 +20,10 @@
 <p align="left"> <a href="https://twitter.com/elaouzari" target="blank"><img src="https://img.shields.io/twitter/follow/elaouzari?logo=twitter&style=for-the-badge" alt="elaouzari" /></a> </p>
 
 - 📫 How to reach me **elaouzariofficiel12@gmail.com**
-- 💬 Ask me about **web development**
-- 🌱 I’m currently learning **Java language**
+- 💬 Ask me about **web development** and **AI research** : best practices, trends, tools, and innovative solutions! 🚀
+- 🌱 I’m currently learning **neural networks**.
 - ⚡ Fun fact **I am Funny**
-- 🤝 I’m looking for help with **software Engineering best practices**
+- 🤝 I’m looking for help with **software engineering** best practices in **AI development**.
 - 👯 I’m looking to collaborate on **software problems**
 
 
