@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Oussama El aouzari</h1>
 
-<h3 align="center">🎓 M.Sc. in Software Engineering · Passionate Software Engineer & AI Researcher</h3>
+<h3 align="center">🎓 M.Sc. in Artificial Intelligence · Software Engineer & AI Researcher</h3>
 
 <p align="center">
   <em>Determined to leverage my skills and experience to build innovative software solutions.</em>
@@ -31,7 +31,7 @@
 
 <img align="right" alt="coding gif" width="380" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" />
 
-- 🎓 I recently earned my **Master's degree in Software Engineering**
+- 🎓 I recently earned my **Master's degree in Artificial Intelligence**
 - 🌱 I'm currently diving deep into **neural networks** and **AI research**
 - 💬 Ask me about **web development** & **AI** — best practices, trends, tools, and innovative solutions! 🚀
 - 🤝 I'm looking to collaborate on **software engineering** and **AI development** projects
